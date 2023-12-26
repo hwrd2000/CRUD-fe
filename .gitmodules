@@ -1,0 +1,3 @@
+[submodule "VueCRUD"]
+	path = VueCRUD
+	url = https://github.com/hwrd2000/VueCRUD.git
