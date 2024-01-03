@@ -31,6 +31,9 @@ import HelloWorld from './components/HelloWorld.vue'
               <li class="nav-item">
                 <RouterLink class="nav-link active" to="/projects">Projects</RouterLink>
               </li>
+              <li class="nav-item">
+                <RouterLink class="nav-link active" to="/attendances">Attendances</RouterLink>
+              </li>
 
             </ul>
            
