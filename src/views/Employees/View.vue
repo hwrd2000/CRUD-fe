@@ -32,7 +32,7 @@
                         <td>{{ employees.address }}</td>
                         <td>{{ getDepartmentName(employees.department_id) }}</td>
                         <td>
-                            <img :src="getEmployeePhotoUrl(employees.photo)" alt="Employee Photo" width="100" height="100" />
+                            <img :src="getEmployeePhotoUrl(employees.photo)" alt="Employee_Photo" width="100" height="100" />
                         </td>
                         <td>{{ employees.created_at }}</td>
                         <td>
